@@ -1,0 +1,13 @@
+name = "GridWhale"
+uuid = "b9c5b085-1de3-4990-b37a-f7674a4bc3fc"
+authors = ["George Moromisato <public@neurohack.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
